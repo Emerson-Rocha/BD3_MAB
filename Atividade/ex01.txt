@@ -1,0 +1,16 @@
+1) Criar uma View que mostre os campos
+ -> orderNumber
+ -> productName
+ -> productCod,
+ -> priceEach
+
+2) Criar uma View que mostre os campos
+   ->productLine
+   ->textDescription
+   ->productName
+
+3) codigo para demostrar se encontra a view no servidor
+
+4) renomear 
+
+5) excluir
